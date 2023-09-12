@@ -1,6 +1,6 @@
 # RecipeBuddy
 
-Project for the Software Engineering course, taken in the 3rd year at the Faculty of Mathematics and Computer Science, University of Bucharest. The course's teacher was Rareș Cristea.
+Team project for the Software Engineering course, taken in the 3rd year at the Faculty of Mathematics and Computer Science, University of Bucharest. The course's teacher was Rareș Cristea.
 
 ## Application Description
 
@@ -76,3 +76,10 @@ __Definition of Ready:__
 
 ![Roadmap](https://user-images.githubusercontent.com/87432371/204295588-9c8c5977-fb2a-4f77-8f2e-37d2623fbf99.png)
 
+## Contributors
+- [adesafta2002](https://github.com/adesafta2002)
+- [alexsasu](https://github.com/alexsasu)
+- [andreid26](https://github.com/andreid26)
+- [BudiGabe](https://github.com/BudiGabe)
+- [davidmarian2012](https://github.com/davidmarian2012)
+- [Marius2504](https://github.com/Marius2504)
