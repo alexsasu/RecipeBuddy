@@ -2,6 +2,8 @@
 
 Team project for the Software Engineering course, taken in the 3rd year at the Faculty of Mathematics and Computer Science, University of Bucharest. The course's teacher was Rareș Cristea.
 
+Check the Wiki for more details about the project.
+
 ## Application Description
 
 RecipeBuddy features a mentoring website for cooking, built with Spring Boot + Maven, and Angular.
